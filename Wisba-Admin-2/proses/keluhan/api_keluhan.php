@@ -5,7 +5,7 @@
  * Date: 5/5/2019
  * Time: 10:01 PM
  */
-include 'koneksi/config.php';
+include '../../koneksi/config.php';
 
 
 if ($_POST) {

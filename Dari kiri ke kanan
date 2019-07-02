@@ -1,0 +1,31 @@
+Dari kiri ke kanan
+#033D01
+#88D685
+#08BD02
+#033D01
+#068A01
+
+https://id.techinasia.com/membuat-business-plan 
+joss tips
+ Hasil  penelitian menunjukkan  bahwa  setiap  ada  serangan  yang  datang  dari  luar menuju  hostatau  server  yang  didalamnya  terdapat  IDS  yang  sedang  berjalan,maka sistem  akan  memberikan  informasi mengenai  data  serangan  yang  telah  masuk  kedalam sistem  kita. Disamping  dapat  mendeteksi  jumlah  paket  data  serangan  UDP Flooding, Snortdapat juga mendeteksi alamat IP sipenyerang. Dalam hasil uji coba ini trafik yang terdeteksi di Snort sebagian besar adalah trafikIP  versi 4 dengan jumlah  2697493 paket data dibandingkan  dengan trafik IP versi 6 yangmasih belum banyak dengan jumlah  74 paket data. Meskipun demikian, dengansemakin menurunnya jumlah slot untuk IP versi 4 diperkirakan trafik dengan IP versi 6akan meningkat di masa depan.Adapun rata –rata deteksi serangan 6 detik.
+Struktur case
+case statement:
+READ(Nilai)
+CASE
+: Nilai = “A” : WRITE(“Bagus Sekali”)
+: Nilai = “B” : WRITE(“Bagus”)
+: Nilai = “C” : WRITE(“Cukup”)
+: Nilai = “D” : WRITE(“Kurang”)
+: else : WRITE(“Kurang Sekali”)
+EndCase
+atau
+READ(Nilai)
+CASE Nilai OF
+“A” : WRITE(“Bagus Sekali”)
+“B” : WRITE(“Bagus”)
+“C” : WRITE(“Cukup”)
+“D” : WRITE(“Kurang”)
+else : WRITE(“Kurang Sekali”)
+EndCase
+penjelasannya 
+struktur ini akan memproses sebuah blok statement pada suatu kasus yang mempunyai beberapa kondisi yang harus diseleksi. 	

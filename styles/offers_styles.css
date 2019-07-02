@@ -256,7 +256,7 @@ section
 	left: 0;
 	width: 200%;
 	height: 100%;
-	background: linear-gradient(to right, #fa9e1b, #8d4fff, #fa9e1b);
+	background: linear-gradient(to right, #08BD02, #033D01, #08BD02);
 	z-index: -1;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
@@ -1401,7 +1401,7 @@ section
 	bottom: 27px;
 	width: 180px;
 	height: 33px;
-	background: #fa9e1b;
+	background: #08BD02;
 	overflow: hidden;
 }
 .offer_name a
@@ -1465,7 +1465,7 @@ section
 }
 .book_button
 {
-	background: #31124b;
+	background: #068A01;
 	margin-top: 39px;
 	margin-bottom: -5px;
 	-webkit-transition: all 200ms ease;

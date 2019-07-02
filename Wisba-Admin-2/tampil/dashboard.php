@@ -2,6 +2,7 @@
 include '../koneksi/config.php';
 $akun= mysqli_query($db,"select * from wisba_account");
 $keluhan=mysqli_query($db,"select * from wisba_keluhan");
+$umkm=mysqli_query($db,"select * from wisba_umkm");
 ?>
 <?php session_start();?>
 <!DOCTYPE html>
@@ -294,7 +295,7 @@ $keluhan=mysqli_query($db,"select * from wisba_keluhan");
                     </div>
                     <div class="content">
                         <div class="text">UMKM</div>
-                        <div class="number count-to" data-from="0" data-to="1225" data-speed="1000" data-fresh-interval="20"></div>
+                        <div class="number count-to" data-from="0" data-to="<?php echo mysqli_num_rows($umkm)?>" data-speed="1000" data-fresh-interval="20"></div>
                     </div>
                 </div>
             </div>

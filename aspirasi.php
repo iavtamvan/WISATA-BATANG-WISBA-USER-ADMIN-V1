@@ -58,8 +58,8 @@
                         <div class="main_nav_container ml-auto">
                             <ul class="main_nav_list">
                                 <li class="main_nav_item"><a href="index.html">Branda</a></li>
-                                <li class="main_nav_item"><a href="wisata.html">Wisata</a></li>
-                                <li class="main_nav_item"><a href="usaha.html">Usaha</a></li>
+                                <li class="main_nav_item"><a href="wisata.php">Wisata</a></li>
+                                <li class="main_nav_item"><a href="usaha.php">Usaha</a></li>
                                 <li class="main_nav_item"><a href="blog.html">Berita</a></li>
                                 <li class="main_nav_item"><a href="aspirasi.php">Aspirasi</a></li>
                                 <li class="main_nav_item"><a href="contact.html">Kontak</a></li>
@@ -108,10 +108,10 @@
             <div class="logo menu_logo"><a href="#"><img src="images/logo_512.png" alt=""></a></div>
             <ul>
                 <li class="menu_item"><a href="index.html">Beranda</a></li>
-                <li class="menu_item"><a href="wisata.html">Wisata</a></li>
-                <li class="menu_item"><a href="usaha.html">Usaha</a></li>
+                <li class="menu_item"><a href="wisata.php">Wisata</a></li>
+                <li class="menu_item"><a href="usaha.php">Usaha</a></li>
                 <li class="menu_item"><a href="blog.html">Berita</a></li>
-                <li class="menu_item"><a href="contact.html">Aspirasi</a></li>
+                <li class="menu_item"><a href="aspirasi.php">Aspirasi</a></li>
                 <li class="menu_item"><a href="contact.html">Kontak</a></li>
             </ul>
         </div>
@@ -165,7 +165,7 @@
                                 </div>
                                 <div class="col-lg-8">
                                     <div class="offers_content">
-                                        <div class="offers_price">'.$array['nama_keluhan'].'</div>
+                                        <div class="offers_price" style="font-size: medium">'.$array['nama_keluhan'].'</div>
                                         <div class="rating_r rating_r_4 offers_rating" data-rating="4">
                                             <i></i>
                                             <i></i>
@@ -176,12 +176,13 @@
                                         <p class="offers_text">'.$array['deskripsi_keluhan'].'</p>
                                         <div class="offers_icons">
                                         </div>
-                                        <div class="button book_button"><a href="#">Like<span></span><span></span><span></span></a></div>
-                                        <div class="button book_button"><a href="#">Dislike<span></span><span></span><span></span></a></div>
+                                        <div class="button book_button"><a href="proses/aspirasi/like.php?id_keluhan='.$array['id_keluhan'].'">Like<span></span><span></span><span></span></a></div>
+                                        <div class="button book_button"><a href="proses/aspirasi/dislike.php?id_keluhan='.$array['id_keluhan'].'">Dislike<span></span><span></span><span></span></a></div>
                                         <div class="offer_reviews">
                                             <div class="offer_reviews_content">
-                                                <div class="offer_reviews_title">Like</div>
-                                                <!--<div class="offer_reviews_subtitle">100</div>-->
+                                                <div class="offer_reviews_title" style="text-align: right">Like</div>
+                                                <div class="offer_reviews_title">Dislike</div>
+                                                <div class="offer_reviews_subtitle" style="text-align: center">'.$array['dislike_keluhan'].'</div>
                                             </div>
                                             <div class="offer_reviews_rating text-center">'.$array['like_keluhan'].'</div>
                                         </div>
@@ -208,9 +209,9 @@
                     <div class="footer_col">
                         <div class="footer_content footer_about">
                             <div class="logo_container footer_logo">
-                                <div class="logo"><a href="#"><img src="images/logo.png" alt="">travelix</a></div>
+                                <div class="logo"><a href="#"><img src="images/logo1.png" style="width: 230px;height: 70px"alt=""></a></div>
                             </div>
-                            <p class="footer_about_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis vu lputate eros, iaculis consequat nisl. Nunc et suscipit urna. Integer eleme ntum orci eu vehicula pretium.</p>
+                            <p class="footer_about_text">Aplikasi yang bertujuan untuk mempermudah wisatawan maupun para usaha dibidang umkm dan pariwisata.</p>
                             <ul class="footer_social_list">
                                 <li class="footer_social_item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
                                 <li class="footer_social_item"><a href="#"><i class="fa fa-facebook-f"></i></a></li>
@@ -225,15 +226,15 @@
                 <!-- Footer Column -->
                 <div class="col-lg-3 footer_column">
                     <div class="footer_col">
-                        <div class="footer_title">blog posts</div>
+                        <div class="footer_title">Berita</div>
                         <div class="footer_content footer_blog">
 
                             <!-- Footer blog item -->
                             <div class="footer_blog_item clearfix">
                                 <div class="footer_blog_image"><img src="images/footer_blog_1.jpg" alt="https://unsplash.com/@avidenov"></div>
                                 <div class="footer_blog_content">
-                                    <div class="footer_blog_title"><a href="blog.html">Travel with us this year</a></div>
-                                    <div class="footer_blog_date">Nov 29, 2017</div>
+                                    <div class="footer_blog_title"><a href="blog.html">Wisata 1</a></div>
+                                    <div class="footer_blog_date">29 November 2017</div>
                                 </div>
                             </div>
 
@@ -241,8 +242,8 @@
                             <div class="footer_blog_item clearfix">
                                 <div class="footer_blog_image"><img src="images/footer_blog_2.jpg" alt="https://unsplash.com/@deannaritchie"></div>
                                 <div class="footer_blog_content">
-                                    <div class="footer_blog_title"><a href="blog.html">New destinations for you</a></div>
-                                    <div class="footer_blog_date">Nov 29, 2017</div>
+                                    <div class="footer_blog_title"><a href="blog.html">Wisata 2</a></div>
+                                    <div class="footer_blog_date">29 November 2017</div>
                                 </div>
                             </div>
 
@@ -250,8 +251,8 @@
                             <div class="footer_blog_item clearfix">
                                 <div class="footer_blog_image"><img src="images/footer_blog_3.jpg" alt="https://unsplash.com/@bergeryap87"></div>
                                 <div class="footer_blog_content">
-                                    <div class="footer_blog_title"><a href="blog.html">Travel with us this year</a></div>
-                                    <div class="footer_blog_date">Nov 29, 2017</div>
+                                    <div class="footer_blog_title"><a href="blog.html">Wisata 3</a></div>
+                                    <div class="footer_blog_date">29 November 2017</div>
                                 </div>
                             </div>
 
@@ -281,24 +282,24 @@
                 <!-- Footer Column -->
                 <div class="col-lg-3 footer_column">
                     <div class="footer_col">
-                        <div class="footer_title">contact info</div>
+                        <div class="footer_title">Informasi Kontak</div>
                         <div class="footer_content footer_contact">
                             <ul class="contact_info_list">
                                 <li class="contact_info_item d-flex flex-row">
                                     <div><div class="contact_info_icon"><img src="images/placeholder.svg" alt=""></div></div>
-                                    <div class="contact_info_text">4127 Raoul Wallenber 45b-c Gibraltar</div>
+                                    <div class="contact_info_text">Jln. Dr. Cipto Kota Semarang</div>
                                 </li>
                                 <li class="contact_info_item d-flex flex-row">
                                     <div><div class="contact_info_icon"><img src="images/phone-call.svg" alt=""></div></div>
-                                    <div class="contact_info_text">2556-808-8613</div>
+                                    <div class="contact_info_text">+62 8571 3728 021</div>
                                 </li>
                                 <li class="contact_info_item d-flex flex-row">
                                     <div><div class="contact_info_icon"><img src="images/message.svg" alt=""></div></div>
-                                    <div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">contactme@gmail.com</a></div>
+                                    <div class="contact_info_text"><a href="mailto:contactme@gmail.com?Subject=Hello" target="_top">ituteme@gmail.com</a></div>
                                 </li>
                                 <li class="contact_info_item d-flex flex-row">
                                     <div><div class="contact_info_icon"><img src="images/planet-earth.svg" alt=""></div></div>
-                                    <div class="contact_info_text"><a href="https://colorlib.com">www.colorlib.com</a></div>
+                                    <div class="contact_info_text"><a href="https://colorlib.com">www.wisba.com</a></div>
                                 </li>
                             </ul>
                         </div>
@@ -326,7 +327,7 @@
                         <div class="footer_nav">
                             <ul class="footer_nav_list">
                                 <li class="footer_nav_item"><a href="index.html">home</a></li>
-                                <li class="footer_nav_item"><a href="wisata.html">about us</a></li>
+                                <li class="footer_nav_item"><a href="wisata.php">about us</a></li>
                                 <li class="footer_nav_item"><a href="#">offers</a></li>
                                 <li class="footer_nav_item"><a href="blog.html">news</a></li>
                                 <li class="footer_nav_item"><a href="contact.html">contact</a></li>

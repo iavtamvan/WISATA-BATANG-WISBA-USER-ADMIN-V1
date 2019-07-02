@@ -14,14 +14,14 @@ $query = mysqli_query($db, "UPDATE wisba_keluhan SET status_keluhan='Pending' WH
 if($query){
     echo ' 
             <script>
-                  alert("Berhasil Dibatalkan!");
-                  window.location = "../../tampil/keluhan/lihat/keluhan_terverifikasi.php"
+                  alert("Berhasil Batal Verfikasi!");
+                  window.location = "../../tampil/keluhan/lihat/keluhan_publikasi.php"
             </script>';
 }
 else{
     echo '<script>
                   alert("Gagal Dibatalkan!");
-                  window.location = "../../tampil/keluhan/lihat/keluhan_terverifikasi.php"
+                  window.location = "../../tampil/keluhan/lihat/keluhan_publikasi.php"
                   </script>';
 }
 

@@ -5,7 +5,7 @@ include "../koneksi/config.php";
 $username = $_POST['username'];
 $password = $_POST['password'];
 // query untuk mendapatkan record dari username
-$data = mysqli_query($db, "SELECT * FROM wisba_account WHERE username= '$username' and password=md5('$password')");
+$data = mysqli_query($db, "SELECT * FROM wisba_account WHERE username= '$username' and password='$password'");
 $user = mysqli_fetch_assoc($data);
 $cek = mysqli_num_rows($data);
 $id_account = $user['id_account'];

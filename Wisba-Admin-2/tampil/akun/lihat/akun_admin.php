@@ -172,17 +172,17 @@ include '../../../koneksi/config.php'
                                     <th>Lat Akun</th>
                                     <th>Long Akun</th>
                                     <th>Username</th>
-                                    <th>Password</th>
                                     <th>Status</th>
                                     <th>Aksi</th>
                                 </tr>
                                 </thead>
                                 <?php
+                                $no=1;
                                 $query = mysqli_query($db, "SELECT * FROM wisba_account WHERE status_account='Admin' ");
                                 while ($d = mysqli_fetch_array($query)) { echo '
                                 <tbody>
                                 <tr>
-                                    <td>'.$d['id_account'].'</td>
+                                    <td>'.$no++.'</td>
                                     <td>'.$d['nama_account'].'</td>
                                     <td>'.$d['email_account'].'</td>
                                     <td>'.$d['no_hp_account'].'</td>
@@ -205,9 +205,19 @@ include '../../../koneksi/config.php'
                                     <td>'.$d['lat_account'].'</td>
                                     <td>'.$d['long_account'].'</td>
                                     <td>'.$d['username'].'</td>
-                                    <td>'.$d['password'].'</td>
                                     <td>'.$d['status_account'].'</td>
-                                    <td>'.$d['nama_account'].'</td> 
+                                    <td>
+                                    <span>
+                                    <a href="../edit/akun_admin.php?id_account='.$d['id_account'].'">
+                                    <button type="submit" class="btn btn-warning waves-effect">Edit</button></a>  
+                                    </span>
+                                    </td>
+                                    <td>
+                                    <span>
+                                    <a href="../../../proses/akun/admin_hapus.php?id_account='.$d['id_account'].'">
+                                    <button type="submit" class="btn btn-danger waves-effect">Hapus</button></a>  
+                                    </span>
+                                    </td>
                                 </tr>
                                 </tbody> ';} ?>
                             </table>

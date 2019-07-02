@@ -66,8 +66,8 @@ div
 	display: block;
 	position: relative;
 	-webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
 }
 ul
 {
@@ -120,11 +120,11 @@ p a:hover::after
 }
 ::selection
 {
-	
+
 }
 p::selection
 {
-	
+
 }
 h1{font-size: 48px;}
 h2{font-size: 36px;}
@@ -138,14 +138,14 @@ h1, h2, h3, h4, h5, h6
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 }
-h1::selection, 
-h2::selection, 
-h3::selection, 
-h4::selection, 
-h5::selection, 
+h1::selection,
+h2::selection,
+h3::selection,
+h4::selection,
+h5::selection,
 h6::selection
 {
-	
+
 }
 .form-control
 {
@@ -241,7 +241,6 @@ section
 	height: 53px;
 	border-radius: 27px;
 	overflow: hidden;
-	z-index: 1;
 }
 .button_bcg
 {
@@ -250,7 +249,7 @@ section
 	left: 0;
 	width: 200%;
 	height: 100%;
-	background: linear-gradient(to right, #fa9e1b, #8d4fff, #fa9e1b);
+	background: linear-gradient(to right, #08BD02, #033D01, #08BD02);
 	z-index: -1;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
@@ -298,11 +297,6 @@ section
 	opacity: 0.4;
 	margin-right: 0px;
 }
-.parallax-window
-{
-    min-height: 400px;
-    background: transparent;
-}
 
 /*********************************
 3. Header
@@ -312,12 +306,12 @@ section
 {
 	position: fixed;
 	width: 100%;
-	background: rgba(54, 19, 84, 0.6);
+	background: rgba(1, 24, 0, 0.7);
 	z-index: 12;
 }
 .header.scrolled
 {
-	background: rgba(54, 19, 84, 0.85);
+	background: rgba(1, 24, 0, 0.7);
 }
 
 /*********************************
@@ -328,7 +322,7 @@ section
 {
 	width: 100%;
 	height: 36px;
-	background: #350a4e;
+	background: #068A01;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
 	-ms-transition: all 400ms ease;
@@ -508,7 +502,7 @@ section
 	bottom: -11px;
 	width: calc(100% + 2px);
 	height: 2px;
-	background: linear-gradient(to right, #fa9e1b, #8d4fff);
+	background: linear-gradient(to right, #068A01, #FFFFFF);
 	content: '';
 	opacity: 0;
 	-webkit-transition: all 200ms ease;
@@ -550,10 +544,6 @@ section
 {
 	width: 17px;
 	height: 17px;
-}
-.content_search:hover .mag_glass
-{
-	fill: #fa9e1c;
 }
 .content_search:hover .mag_glass
 {
@@ -632,7 +622,7 @@ section
 	position: fixed;
 	width: 100vw;
 	height: 100vh;
-	background: linear-gradient(to right, #fa9e1b, #8d4fff);
+	background: linear-gradient(to right, #08BD02,#033D01);
 	z-index: 100;
 	opacity: 0;
 	visibility: hidden;
@@ -817,7 +807,7 @@ section
 	width: 114px;
 	height: 74px;
 	border-radius: 37px;
-	background: #fa9e1b;
+	background: #08BD02;
 }
 .blog_post_day
 {
@@ -1142,7 +1132,7 @@ section
 }
 
 /*********************************
-8. Footer
+13. Footer
 *********************************/
 
 .footer
@@ -1150,7 +1140,7 @@ section
 	width: 100%;
 	padding-top: 113px;
 	padding-bottom: 104px;
-	background: #31124b;
+	background: #068A01	;
 }
 .footer_title
 {
@@ -1161,7 +1151,7 @@ section
 }
 
 /*********************************
-8.1 Footer - About
+13.1 Footer - About
 *********************************/
 
 .footer_about
@@ -1185,7 +1175,7 @@ section
 	display: inline-block;
 	width: 31px;
 	height: 31px;
-	border: solid 1px #fa9e1b;
+	border: solid 1px #033D01;
 	border-radius: 50%;
 	text-align: center;
 	-webkit-transition: all 200ms ease;
@@ -1226,15 +1216,15 @@ section
 }
 .footer_social_item:hover
 {
-	background: #fa9e1b;
+	background: #068A01;
 }
 .footer_social_item:hover a i
 {
-	color: #31124b;
+	color: #ffffff;
 }
 
 /*********************************
-8.2 Footer - Blog
+13.2 Footer - Blog
 *********************************/
 
 .footer_blog
@@ -1276,18 +1266,19 @@ section
 }
 .footer_blog_title a:hover
 {
-	color: #fa9e1b;
+	color: #033D01;
 }
 .footer_blog_date
 {
 	font-size: 12px;
 	font-weight: 400;
-	color: #fa9e1b;
+	color: #ffffff;
+	color: #ffffff;
 	margin-top: 7px;
 }
 
 /*********************************
-8.3 Footer - Tags
+13.3 Footer - Tags
 *********************************/
 
 .footer_tags
@@ -1300,7 +1291,7 @@ section
 	float: left;
 	margin-right: 9px;
 	margin-bottom: 9px;
-	border: solid 1px #fa9e1b;
+	border: solid 1px #033D01;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -1309,7 +1300,7 @@ section
 }
 .tag_item:hover
 {
-	background: #fa9e1b;
+	background: #033D01;
 }
 .tag_item a
 {
@@ -1323,7 +1314,7 @@ section
 }
 
 /*********************************
-8.4 Footer - Contact Info
+13.4 Footer - Contact Info
 *********************************/
 
 .contact_info_list
@@ -1359,12 +1350,12 @@ section
 }
 
 /*********************************
-9. Copyright
+14. Copyright
 *********************************/
 
 .copyright
 {
-	background: #1f0733;
+	background: #033D01;
 }
 .copyright_content
 {
@@ -1374,7 +1365,7 @@ section
 {
 	font-size: 12px;
 	font-weight: 600;
-	color: #685677;
+	color: #ffffff;
 }
 .footer_nav_container
 {
@@ -1382,7 +1373,7 @@ section
 }
 .footer_nav
 {
-	
+
 }
 .footer_nav_list
 {
@@ -1397,7 +1388,7 @@ section
 {
 	font-size: 12px;
 	font-weight: 600;
-	color: #685677;
+	color: #ffffff;
 	text-transform: uppercase;
 	line-height: 2;
 	-webkit-transition: all 200ms ease;
@@ -1408,5 +1399,5 @@ section
 }
 .footer_nav_item a:hover
 {
-	color: #FFFFFF;
+	color: #068A01;
 }

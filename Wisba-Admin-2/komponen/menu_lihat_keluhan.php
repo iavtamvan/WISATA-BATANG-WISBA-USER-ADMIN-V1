@@ -31,10 +31,23 @@
                 </a>
                 <ul class="ml-menu">
                     <li>
-                        <a href="keluhan_terverifikasi.php">Terverifikasi</a>
+                        <a href="keluhan_publikasi.php">Terverifikasi</a>
                     </li>
                     <li>
-                        <a href="keluhan_belum_terverifikasi.php">Tidak Terverifikasi</a>
+                        <a href="keluhan_pending.php">Tidak Terverifikasi</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="menu-toggle">
+                    <span>UMKM</span>
+                </a>
+                <ul class="ml-menu">
+                    <li>
+                        <a href="../../umkm/lihat/umkm_terverifikasi.php">Terverifikasi</a>
+                    </li>
+                    <li>
+                        <a href="../../umkm/lihat/umkm_belum_terverifikasi.php">Tidak Terverifikasi</a>
                     </li>
                 </ul>
             </li>
