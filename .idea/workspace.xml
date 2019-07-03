@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="897d571e-3fab-46a5-8b4d-18edfd0119df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/proses/aspirasi/dislike.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proses/wisata/ambil_data_json_wisata.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/travelix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/travelix.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/Wisba-Admin-2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/Wisba-Admin-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/.idea/Wisba-Admin-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap/LICENSE.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap/README.md" afterDir="false" />
@@ -1826,43 +1813,30 @@
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap/scss/themes/theme-red.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap/scss/themes/theme-red.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap/scss/themes/theme-teal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap/scss/themes/theme-teal.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap/scss/themes/theme-yellow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/bootstrap/scss/themes/theme-yellow.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/foto/huda.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/index.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/footer.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/komponen/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/head.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/komponen/head.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_edit_akun.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_edit_akun.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_edit_keluhan.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_edit_keluhan.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_edit_umkm.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_edit_umkm.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_lihat_akun.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_lihat_akun.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_lihat_akun.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_lihat_keluhan.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_lihat_keluhan.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_lihat_keluhan.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_lihat_umkm.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/komponen/menu_lihat_umkm.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/script.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/komponen/script.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/komponen/script.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/koneksi/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/koneksi/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/koneksi/config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/akun/admin_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/akun/admin_edit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/akun/admin_hapus.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/akun/admin_hapus.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/akun/umum_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/akun/umum_edit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/akun/umum_hapus.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/akun/umum_hapus.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/api_keluhan.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/api_keluhan.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/api_keluhan.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/batal_publikasi.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/batal_publikasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/batal_publikasi.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/pending_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/pending_edit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/pending_hapus.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/pending_hapus.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/publikasi.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/publikasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/publikasi.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/publikasi_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/publikasi_edit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/publikasi_hapus.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/keluhan/publikasi_hapus.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/login.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/logout.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/logout.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/umkm/batal_verifikasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/umkm/batal_verifikasi.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/umkm/belum_terverifikasi_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/umkm/belum_terverifikasi_edit.php" afterDir="false" />
@@ -1872,62 +1846,17 @@
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/proses/umkm/verifikasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/proses/umkm/verifikasi.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/akun/edit/akun_admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/akun/edit/akun_admin.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/akun/edit/akun_umum.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/akun/edit/akun_umum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/akun/lihat/akun_admin.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/akun/lihat/akun_admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/akun/lihat/akun_admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/akun/lihat/akun_umum.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/akun/lihat/akun_umum.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/akun/lihat/akun_umum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/dashboard.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/dashboard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/keluhan/edit/keluhan_pending.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/keluhan/edit/keluhan_pending.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/keluhan/edit/keluhan_publikasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/keluhan/edit/keluhan_publikasi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/keluhan/lihat/keluhan_belum_terverifikasi.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/keluhan/lihat/keluhan_pending.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/keluhan/lihat/keluhan_pending.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/keluhan/lihat/keluhan_publikasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/keluhan/lihat/keluhan_publikasi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/keluhan/lihat/keluhan_terverifikasi.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/umkm/edit/umkm_belum_terverifikasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/umkm/edit/umkm_belum_terverifikasi.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/umkm/edit/umkm_terverifikasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/umkm/edit/umkm_terverifikasi.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/umkm/lihat/umkm_belum_terverifikasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/umkm/lihat/umkm_belum_terverifikasi.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/tampil/umkm/lihat/umkm_terverifikasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Wisba-Admin-2/tampil/umkm/lihat/umkm_terverifikasi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wisba-Admin-2/wisba.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aspirasi.php" beforeDir="false" afterPath="$PROJECT_DIR$/aspirasi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/message.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/message.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nav_next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav_next.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nav_prev.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav_prev.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nav_rect.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav_rect.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/phone-call.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/phone-call.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/placeholder.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/placeholder.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/planet-earth.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/planet-earth.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/search.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/about_custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/about_custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/blog_custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/blog_custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/contact_custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/contact_custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/elements_custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/elements_custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/offers_custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/offers_custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/single_listing_custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/single_listing_custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/Isotope/isotope.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/Isotope/isotope.pkgd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/easing/easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/easing/easing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single_listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/single_listing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/about_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/about_responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/about_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/about_styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/blog_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/blog_responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/blog_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/blog_styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/contact_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/contact_responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/contact_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/contact_styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/elements_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/elements_responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/elements_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/elements_styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main_styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/offers_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/offers_responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/offers_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/offers_styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/single_listing_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/single_listing_responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/single_listing_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/single_listing_styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usaha.html" beforeDir="false" afterPath="$PROJECT_DIR$/usaha.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wisata.html" beforeDir="false" afterPath="$PROJECT_DIR$/wisata.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1941,12 +1870,12 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wisba-Admin-2/koneksi/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="195">
+              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -2024,10 +1953,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="17" />
+    <option name="width" value="746" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -2039,19 +1967,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="WISBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wisba" type="b2602c69:ProjectViewProjectNode" />
               <item name="wisba" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WISBA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wisba" type="462c0819:PsiDirectoryNode" />
-              <item name="Wisba-Admin-2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WISBA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wisba" type="462c0819:PsiDirectoryNode" />
-              <item name="Wisba-Admin-2" type="462c0819:PsiDirectoryNode" />
-              <item name="koneksi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2107,18 +2024,18 @@
       <workItem from="1560871309433" duration="1757000" />
       <workItem from="1562063369344" duration="230000" />
       <workItem from="1562063782267" duration="135000" />
-      <workItem from="1562074732905" duration="1405000" />
+      <workItem from="1562074732905" duration="3724000" />
+      <workItem from="1562118950094" duration="402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65818000" />
+    <option name="totallyTimeSpent" value="68539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28594506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2131,7 +2048,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -2515,13 +2432,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WISATA-BATANG-SMART-BACKEND-V1/api_login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/WISATA-BATANG-SMART-BACKEND-V1/api_login.php" />
     <entry file="file://$PROJECT_DIR$/Wisba-Admin-2/proses/akun/admin_hapus.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -2537,8 +2448,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wisba-Admin-2/koneksi/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="195">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>
